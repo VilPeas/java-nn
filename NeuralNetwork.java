@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class NeuralNetwork {
 
     /**
-     * Read letter from Std Input and output corresponding square root value.
+     * Main function for Neural Network
      * @param args the command line arguments (not used).
      */
     public static void main(String[] args) {
