@@ -8,7 +8,6 @@ public class NeuralNetwork {
      * @param args the command line arguments (not used).
      */
     public static void main(String[] args) {
-        System.out.println("Start here");
-        DenseLayer layer = new DenseLayer(3,4,1);
+        DenseLayer layer = new DenseLayer(3,4);
     }
 }
